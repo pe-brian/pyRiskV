@@ -1,0 +1,7 @@
+{
+    "description": "RandomAccess — 64 accès aléatoires, résultat attendu : 20160",
+    "entry": 0,
+    "memory": [
+        { "addr": "0x100", "value": 64 }
+    ]
+}

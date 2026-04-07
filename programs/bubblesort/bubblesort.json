@@ -1,0 +1,8 @@
+{
+    "description": "BubbleSort — 8 éléments, résultat attendu : 3",
+    "entry": 0,
+    "memory": [
+        { "addr": "0x500", "value": 8 },
+        { "addr": "0x400", "values": [64, 25, 12, 22, 11, 90, 3, 47] }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "description": "Fibonacci — n configurable via JSON",
+    "entry": 0,
+    "memory": [
+        { "addr": "0x400", "value": 8 }
+    ]
+}
